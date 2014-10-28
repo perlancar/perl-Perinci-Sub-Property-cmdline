@@ -13,6 +13,10 @@ declare_property(
     name => 'cmdline',
     type => 'function',
     schema => ['any'],
+    wrapper => {
+        meta => {},
+        handler => sub {},
+    },
 );
 
 1;
