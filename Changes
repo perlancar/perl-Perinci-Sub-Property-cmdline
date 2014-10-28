@@ -1,5 +1,10 @@
 Revision history for Perinci-Sub-Property-cmdline
 
+0.02    2014-10-28 (PERLANCAR)
+
+	- Forgot to specify property's wrapper handler.
+
+
 0.01     2014-10-28 (PERLANCAR)
 
          - First release.
