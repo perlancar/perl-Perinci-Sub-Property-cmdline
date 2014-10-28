@@ -30,5 +30,3 @@ In function L<Rinci> metadata:
 Currently this property does nothing by itself, it is just a namespace for
 specifying command-line-related attributes (like shown in Synopsis).
 
-
-
